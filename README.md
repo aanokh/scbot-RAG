@@ -1,1 +1,3 @@
-# scbot
+# __Zergo Bot__
+A simple Starcraft 2 bot made with the burny python-sc2 API. The bot's functions include simple scouting, economy management and army control. Future planned features include creep spread, reactive army compositions, advanced scouting networks and multi-prong army control.
+The bot plays a mostly defensive reactionary playstyle which matches the strengths of the Zerg race, letting it remain as effective as possible against both real players and other bot opponents.
