@@ -10,7 +10,7 @@ from sc2.ids.buff_id import BuffId
 from sc2.unit import Unit
 from sc2.units import Units
 import numpy as np
-from antony import IncrediBot
+#from antony import IncrediBot
 
 class ZergoBot(BotAI):
 
